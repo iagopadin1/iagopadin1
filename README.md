@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hola, mi nombre es Iago Padín 👋
+
+### Grado en Matemáticas y Máster en Matemática Industrial.
 
 <!--
 **iagopadin1/iagopadin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
